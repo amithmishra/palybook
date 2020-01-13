@@ -9,5 +9,5 @@
 
   - name: start the apache2 service
     service:
-      name: apchec2
-      state: started
+     name: apchec2
+     state: started
